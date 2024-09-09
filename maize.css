@@ -1,0 +1,21 @@
+.button-xy{
+    background-color: rgb(241, 152, 152);
+    width: 200px;
+    border-radius: 20px;
+    padding: 8px;
+
+}
+.boxx-1{
+    background-color: rgb(179, 120, 114);
+
+    
+}
+.boxx-2{
+    background-color:#F9EFE5;
+}
+.boxx-3{
+    background-color: white;
+}
+.boxx-6{
+    background-color: aliceblue;
+}
